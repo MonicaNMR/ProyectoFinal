@@ -1,0 +1,13 @@
+export const sellador = process.env.PUBLIC_URL + '/sellador.PNG'
+export const unaSonrisa = process.env.PUBLIC_URL + '/unaSonrisa.png'
+export const muela3 = process.env.PUBLIC_URL + '/muela3.png'
+export const instrumental = process.env.PUBLIC_URL + '/instrumental.png'
+export const muela = process.env.PUBLIC_URL + '/muela.png'
+export const sillondental = process.env.PUBLIC_URL + '/sillondental.png'
+export const limpieza = process.env.PUBLIC_URL + '/limpieza.png'
+export const resinas = process.env.PUBLIC_URL + '/resinas.png'
+export const endodoncia = process.env.PUBLIC_URL + '/endodoncia.png'
+export const extraccion = process.env.PUBLIC_URL + '/extraccion.png'
+export const dentista = process.env.PUBLIC_URL + '/dentista.png'
+export const dentista1 = process.env.PUBLIC_URL + '/dentista1.png'
+
